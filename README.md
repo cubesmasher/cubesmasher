@@ -1,4 +1,4 @@
-# Menja
+# CubeSmasher
 
 A game about smashing cubes.
 
